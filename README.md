@@ -5,11 +5,11 @@ This project was conducted based on two method:
   -  Using Arduino support package from MATLAB/Simulink to generate and deploy code from Simulink control model
 
 # Hardware component
-1 x Arduino Uno \\
-1 x 600 PPR Rotary encoder \\
-1 x 1000 PPR Rotary encoder \\
-1 x DC motor \\
-1 x Dc motor driver module
+1 x Arduino Uno\\
+1 x 600 PPR Rotary encoder\\
+1 x 1000 PPR Rotary encoder\\
+1 x DC motor\\
+1 x Dc motor driver module\\
 Power supplies
 
 
